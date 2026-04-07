@@ -1,7 +1,7 @@
 // ╔══════════════════════════════════════════════════════════════╗
 // ║  CONFIGURE AQUI — cole seu Client ID do Google Cloud Console ║
 // ╚══════════════════════════════════════════════════════════════╝
-const CLIENT_ID = 'SEU_CLIENT_ID_AQUI.apps.googleusercontent.com';
+const CLIENT_ID = '563596598318-1778g9n894sot4eadnrvv3g841src65j.apps.googleusercontent.com';
 
 // ── Constantes ────────────────────────────────────────────────────────────────
 const SCOPES       = 'https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email';
